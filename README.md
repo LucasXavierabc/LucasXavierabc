@@ -16,7 +16,6 @@ Atualmente possuo experiência em Python para Ciência de Dados e Machine Learni
 Também faço parte do **PET ADS (Programa de Educação Tutorial de Análise e Desenvolvimento de Sistemas)**, participando de atividades que promovem ensino, pesquisa e extensão.
  
 ## 📚 Atualmente estudando
- 
 - HTML5
 - CSS3
 - Java
@@ -27,14 +26,12 @@ Além da graduação, estou realizando o curso:
 **Java COMPLETO: Programação Orientada a Objetos + Projetos (Udemy)**
  
 ## 🚀 Objetivos
- 
 - Aprimorar meus conhecimentos em Machine Learning e Inteligência Artificial.
 - Desenvolver aplicações utilizando Python e Java.
 - Evoluir minhas habilidades em desenvolvimento web.
 - Participar de projetos que gerem impacto positivo através da tecnologia.
  
 ## 🛠️ Tecnologias
- 
 ### Linguagens
 - Python
 - Java
@@ -50,7 +47,6 @@ Além da graduação, estou realizando o curso:
 - CSS
  
 ## 🌱 Atualmente
- 
 - Cursando ADS no IFSP São Carlos.
 - Integrante do PET ADS.
 - Estudando Java e Programação Orientada a Objetos.
