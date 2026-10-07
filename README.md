@@ -1,43 +1,65 @@
 # Olá, eu sou Lucas Xavier 👋
  
-🎓 Estudante de Tecnologia no Instituto Federal de São Paulo (IFSP) - Campus São Carlos.
+🎓 Tenho 21 anos e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **Instituto Federal de São Paulo (IFSP) - Campus São Carlos**.
  
-💻 Tenho experiência em desenvolvimento com Python voltado para Ciência de Dados e Machine Learning, utilizando bibliotecas como:
+💡 Sou muito interessado por tecnologia, programação e Inteligência Artificial, com foco em desenvolvimento de soluções utilizando Python e técnicas de Machine Learning.
+ 
+## 👨‍💻 Sobre mim
+ 
+Atualmente possuo experiência em Python para Ciência de Dados e Machine Learning, trabalhando com bibliotecas como:
  
 - Scikit-learn
 - PyTorch
 - NumPy
 - Pandas
  
-📚 Atualmente estou expandindo meus conhecimentos em:
+Também faço parte do **PET ADS (Programa de Educação Tutorial de Análise e Desenvolvimento de Sistemas)**, participando de atividades que promovem ensino, pesquisa e extensão.
+ 
+## 📚 Atualmente estudando
  
 - HTML5
 - CSS3
 - Java
+- Programação Orientada a Objetos
  
-Também estou realizando o curso **Java COMPLETO: Programação Orientada a Objetos + Projetos** pela Udemy, aprofundando conceitos de orientação a objetos e boas práticas de desenvolvimento.
+Além da graduação, estou realizando o curso:
  
-## 🚀 Tecnologias e Ferramentas
+**Java COMPLETO: Programação Orientada a Objetos + Projetos (Udemy)**
  
-- https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-- https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-- https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
-- https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-- https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white
-- https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
-- https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
-- https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
- 
-## 📈 Objetivos
+## 🚀 Objetivos
  
 - Aprimorar meus conhecimentos em Machine Learning e Inteligência Artificial.
-- Desenvolver projetos completos utilizando Python e Java.
+- Desenvolver aplicações utilizando Python e Java.
 - Evoluir minhas habilidades em desenvolvimento web.
-- Contribuir com projetos open source.
+- Participar de projetos que gerem impacto positivo através da tecnologia.
+ 
+## 🛠️ Tecnologias
+ 
+### Linguagens
+- Python
+- Java
+ 
+### Machine Learning e Ciência de Dados
+- Scikit-learn
+- PyTorch
+- NumPy
+- Pandas
+ 
+### Desenvolvimento Web
+- HTML
+- CSS
+ 
+## 🌱 Atualmente
+ 
+- Cursando ADS no IFSP São Carlos.
+- Integrante do PET ADS.
+- Estudando Java e Programação Orientada a Objetos.
+- Aprendendo desenvolvimento web com HTML e CSS.
  
 ## 📫 Contato
  
-Sinta-se à vontade para entrar em contato ou acompanhar minha jornada através do GitHub!
+Fique à vontade para explorar meus projetos e acompanhar minha evolução na área de tecnologia.
  
 ---
-⭐ Sempre aprendendo, construindo e compartilhando conhecimento.
+ 
+> "O aprendizado contínuo é o caminho para transformar ideias em soluções."
